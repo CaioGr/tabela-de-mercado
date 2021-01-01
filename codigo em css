@@ -1,0 +1,17 @@
+.tabela{
+    margin-left: 300px;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.fontep{
+    background-color: #487a9c;
+}
+
+.ban{
+    background-color: #7aaccf;
+}
+
+.gr{
+    background-color: #6089a6;
+}
