@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <link href="tabelinha.css" rel="stylesheet">
+    <title>TABELA</title>
+</head>
+
+<body>
+    <table border="0" class="tabela">
+        <tr>
+            <td class="fontep"><b>PRODUTO</b></td>
+            <td class="fontep"><b>PESO.LIQUI</b></td>
+            <td class="fontep"><b>QUANT</b></td>
+            <td class="fontep"><b>PREÇO.UNI</b></td>
+        </tr>
+        <tr>
+            <td class="ban">Banana</td>
+            <td class="gr">200g</td>
+            <td class="ban">1</td>
+            <td class="gr">R$1,50</td>
+        </tr>
+        <tr>
+            <td class="ban">Maçã</td>
+            <td class="gr">300g</td>
+            <td class="ban">1</td>
+            <td class="gr">R$2,00</td>
+        </tr>
+        <tr>
+            <td class="ban">Pera</td>
+            <td class="gr">100g</td>
+            <td class="ban">1</td>
+            <td class="gr">R$1,50</td>
+        </tr>
+        <tr>
+            <td class="ban">Manga</td>
+            <td class="gr">100g</td>
+            <td class="ban">1</td>
+            <td class="gr">R$1,00</td>
+        </tr>
+    </table>
+</body>
+
+</html>
